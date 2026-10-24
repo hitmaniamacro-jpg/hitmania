@@ -3,4 +3,4 @@
 :HL["/hitmania/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"updates","h":64,"c":"$Q2"}]]
-0:{"b":"nIvnezgF6lMr-0eroOViw","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"hSBfP4dijFgKdleRWL5k0","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
