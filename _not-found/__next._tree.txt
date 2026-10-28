@@ -1,4 +1,4 @@
 :HL["/hitmania/_next/static/chunks/2hxcdzljzktb_.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"Zl1QElYwntQ-i06M9TcCK","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"WmsvGO2Wc-j40f2u1YnWq","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
